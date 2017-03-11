@@ -12,5 +12,6 @@
 </head>
 <body>
     Hello world
+${emp.id} - ${emp.name} - ${emp.email}
 </body>
 </html>
